@@ -9,6 +9,8 @@ apt-get update \
     libedit2 \
     libssl-dev \
     lsb-release \
+    libxml2-dev \
+    libcurl4-openssl-dev \
     multiarch-support \
     psmisc \
     procps \
