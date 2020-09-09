@@ -10,6 +10,9 @@ Imports:
   readr
   purrr
   gitr
+  citrulliner
+  USAboundariesData
+  toolboxr
 Remotes:
   ropensci/USAboundariesData
   uashogeschoolutrecht/citrulliner
