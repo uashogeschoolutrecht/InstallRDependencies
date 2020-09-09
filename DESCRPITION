@@ -9,6 +9,7 @@ Imports:
   dplyr
   readr
   purrr
+  gitr
 Remotes:
   ropensci/USAboundariesData
   uashogeschoolutrecht/citrulliner
