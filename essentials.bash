@@ -28,3 +28,4 @@ apt -y autoremove
 
 ## add missing R-packages in the DESCRIPTION file under imports. Github or other remotes go in the Remotes field:
 Rscript -e "options(repos = c(CRAN = 'https://cran.r-project.org')); install.packages(c('devtools'))"
+Rscript -e "devtools::install('.')"
